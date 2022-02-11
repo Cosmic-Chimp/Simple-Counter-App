@@ -1,0 +1,8 @@
+@use "../Abstracts/colors";
+
+#incr {
+  width: 100px;
+  height: 2em;
+  background-color: colors.$incClr;
+  margin: 0px 10px;
+}

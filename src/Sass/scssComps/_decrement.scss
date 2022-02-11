@@ -1,0 +1,9 @@
+// import the things you'll need to use like colors and mixins
+@use "../Abstracts/colors";
+
+#decr {
+  width: 100px;
+  height: 2em;
+  background-color: colors.$decClr;
+  margin: 1em 10px;
+}

@@ -1,0 +1,8 @@
+// this is where u forward the stuffs
+@forward "./Abstracts/colors";
+@forward "./Abstracts/mixins";
+@forward "./Abstracts/typography";
+
+@forward "./scssComps/appComp";
+@forward "./scssComps/decrement";
+@forward "./scssComps/increment";

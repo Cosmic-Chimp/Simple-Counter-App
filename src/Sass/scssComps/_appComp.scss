@@ -1,0 +1,32 @@
+@use "../Abstracts/colors";
+
+.CountOuter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1em;
+}
+
+.BtnDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.CountBtns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 0.5em;
+  cursor: pointer;
+  box-shadow: inset 5px 10px 20px -3px rgba(0, 0, 0, 0.25);
+}
+.CountClose {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid colors.$charcoal;
+  border-radius: 1em;
+  background-color: colors.$offWhite;
+}
