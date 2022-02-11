@@ -16,9 +16,9 @@ Please feel free to give me advice on where I can improve upon my code, I will g
 - ReactJs
 - create-react-app
 - JavaScript
-- Sass (Dart-Sass because node Sass has been deprecated)
-  -JSX
-  -React Hooks
+- Dart-Sass because node Sass has been deprecated
+- JSX
+- React Hooks
 
 ## Links to React Stuff:
 
